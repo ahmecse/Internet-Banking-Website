@@ -1,20 +1,18 @@
-# Internet Banking Website
+This GitHub README provides an overview of an Internet Banking Website project. Here are some key points mentioned in the README:
 
-This project aims to develop a robust and effective web-based online banking system, providing users with complete control over their banking demands through a simple and easy-to-use interface. The goal is to extend the functionality of the website without compromising security and maintain a modular approach to facilitate the addition of extra features in the future.
+1. Objective: The project aims to develop a robust and effective web-based online banking system that allows users to have complete control over their banking demands through a simple and user-friendly interface.
 
-## Built with/Languages used:
+2. Technologies Used:
+   - Front-end: HTML5, CSS, JavaScript, and jQuery are used for designing the user interface with a modern and intuitive material design.
+   - Back-end: PHP7 and MySQL are employed for efficient data processing and storage, ensuring secure handling of sensitive information.
+   - Database: Oracle MySQL is utilized to create and host the database, enabling seamless data management and retrieval.
 
-- HTML5, CSS, JavaScript, and jQuery for front-end design, ensuring a modern and intuitive material design.
-- PHP7 and MySQL for back-end design, enabling secure and efficient data processing and storage.
-- Oracle MySQL utilized to create and host the database, ensuring seamless data management and retrieval.
+3. Development Approach: The project has been built from scratch, without relying on external libraries or web-page templates. The entire codebase has been written ground-up, showcasing a custom implementation.
 
-**Note:** This project was developed from scratch, without the use of any external libraries or web-page templates. All code has been written ground-up.
+4. Features:
+   - Modern Material Design: The website incorporates Google's material design principles to provide a visually appealing and user-friendly interface.
+   - Responsive Web Design: The site is designed to be fluid and responsive, adapting to different screen sizes and ensuring a consistent experience across devices.
+   - Cross-Browser Compatibility: The website is tested to function properly on various browsers, ensuring a consistent user experience for all visitors.
+   - Optimized Code: The code is optimized to enhance speed and smooth rendering, resulting in an improved overall user experience.
 
-## Features:
-
-- Intuitive modern material design by Google, providing a visually appealing and user-friendly interface.
-- Fluid and responsive web design, ensuring cross-device compatibility and a consistent experience across different screen sizes.
-- Cross-compatibility with various browsers, guaranteeing that the website functions properly regardless of the browser used.
-- Optimized code to enhance speed and smooth rendering, resulting in an improved user experience.
-
-Feel free to explore the repository to learn more about the development process and implementation details of the Internet Banking Website.
+The README invites users to explore the repository for further details about the development process and implementation specifics of the Internet Banking Website project.
