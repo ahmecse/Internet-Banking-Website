@@ -1,5 +1,3 @@
-This GitHub README provides an overview of an Internet Banking Website project. Here are some key points mentioned in the README:
-
 1. Objective: The project aims to develop a robust and effective web-based online banking system that allows users to have complete control over their banking demands through a simple and user-friendly interface.
 
 2. Technologies Used:
